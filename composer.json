@@ -1,0 +1,8 @@
+{
+    "require": {
+        "amphp/amp": "^2.0",
+        "amphp/artax": "^3.0",
+        "hhxsv5/php-coroutine": "~1.0",
+        "superrb/async": "^0.1.0"
+    }
+}
